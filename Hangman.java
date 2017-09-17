@@ -1,3 +1,5 @@
+//Copyright (c) 2017 Sumit Pokhrel
+
 package com.Hangman;
 
 import java.util.Random;
